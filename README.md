@@ -35,8 +35,7 @@ C: Bikes:46 Docks:65
 D: Bikes:27 Docks:88
 
 This give arise to a cost of 43,400 singaporian dollars, acheiving a tourist satisfaction rate of 81%
-<img width="74" height="39" alt="image" src="https://github.com/user-attachments/assets/26b95aff-e597-49c6-9f83-f7906b913711" />
-
+<img width="797" height="150" alt="image" src="https://github.com/user-attachments/assets/638a674c-ecfa-4148-98c8-285bf6856f54" />
 
 
 
